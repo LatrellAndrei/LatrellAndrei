@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Latrell Andrei, a Junior Front-End Web Developer from Baguio City. 
+I'm Latrell Andrei, a Front-End Web Developer from Baguio City. 
 
 🎓 I have a degree of Bachelor of Science in Information Technology, Major in Web Technologies
 🏫 Graduated from University of the Cordilleras
