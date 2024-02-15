@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LATRELL ANDREI CAMURUNGAN</h1>
 <h3 align="center">a Front-End Web Developer from Baguio City.</h3>
 
-- 🌱 I’m currently learning **React JS, Tailwind CSS**
+- 🌱 I’m currently learning **React JS, Tailwind CSS, BOOTSTRAP**
 
 - 👨‍💻 All of my projects are available at [https://latrellandreinewportfolio.netlify.app/](https://latrellandreinewportfolio.netlify.app/)
 
