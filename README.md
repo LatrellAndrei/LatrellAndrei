@@ -8,7 +8,7 @@
 - 📸 I enjoy photography, especially capturing aesthetic cityscapes and outdoor scenes, and I love editing them.
 - 📫 Reach me at **lacc1612@gmail.com**
 
-<h3 align="left">Languages, Tools & Platforms:</h3>
+<<h3 align="left">Languages, Tools & Platforms:</h3>
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -24,14 +24,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <!-- Wix -->
-<a href="https://www.wix.com/" target="_blank">
-  Wix
-</a>
-<!-- Canva -->
-<a href="https://www.canva.com/" target="_blank">
-  Canva
-</a>
+  <a href="https://www.wix.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wix-com.svg" alt="Wix" width="40" height="40"/></a>
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eylatrell16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eylatrell16" height="30" width="40" /></a>
