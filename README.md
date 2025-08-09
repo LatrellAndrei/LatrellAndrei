@@ -30,11 +30,14 @@
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <!-- Wix -->
-  <a href="https://www.wix.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wix-com.svg" alt="Wix" width="40" height="40"/></a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/></a>
-</p>
+   <!-- Wix -->
+<a href="https://www.wix.com/" target="_blank">
+  Wix
+</a>
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  Canva
+</a>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
