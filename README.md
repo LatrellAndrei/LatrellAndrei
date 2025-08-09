@@ -8,7 +8,7 @@
 - 📸 I enjoy photography, especially capturing aesthetic cityscapes and outdoor scenes, and I love editing them.
 - 📫 Reach me at **lacc1612@gmail.com**
 
-<<h3 align="left">Languages, Tools & Platforms:</h3>
+<h3 align="left">Languages, Tools & Platforms:</h3>
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -38,6 +38,7 @@
 <a href="https://www.canva.com/" target="_blank">
   Canva
 </a>  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
