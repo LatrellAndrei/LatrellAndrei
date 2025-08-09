@@ -2,8 +2,9 @@
 <h3 align="center">A Creative Media & Website Support, Graphic Designer, Video Editor, and Aspiring Web Developer from Manila 🇵🇭</h3>
 
 - 🎨 I work on **graphic design projects** using Canva, including social media posts, promotional videos, and event visuals.
+-  I design website layouts in Figma and translate them into live sites in HTML, CSS, and JavaScript.
 - 🌐 I edit and maintain **Wix websites** and have experience in basic HTML, CSS, and JavaScript.
-- 💻 I have a background in **Java, C#, PHP, and MySQL**, plus hands-on experience with Android app development during college.
+- 💻 I have a background in **Java, C#, PHP, and MySQL**, plus hands-on experience with Android Studio Mobile app development during college.
 - 📸 I enjoy photography, especially capturing aesthetic cityscapes and outdoor scenes, and I love editing them.
 - 📫 Reach me at **lacc1612@gmail.com**
 
