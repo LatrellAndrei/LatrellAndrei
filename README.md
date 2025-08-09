@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm LATRELL ANDREI CAMURUNGAN</h1>
-<h3 align="center">A Creative & Technical All-Rounder — Virtual Assistant, Graphic Designer, and Aspiring Web Developer from Manila 🇵🇭</h3>
+<h3 align="center">A Creative Media & Website Support, Graphic Designer, Video Editor, and Aspiring Web Developer from Manila 🇵🇭</h3>
 
 - 🎨 I work on **graphic design projects** using Canva, including social media posts, promotional videos, and event visuals.
-- 🌐 I edit and maintain **Wix websites** (my favorite platform) and have experience in basic HTML, CSS, and JavaScript.
+- 🌐 I edit and maintain **Wix websites** and have experience in basic HTML, CSS, and JavaScript.
 - 💻 I have a background in **Java, C#, PHP, and MySQL**, plus hands-on experience with Android app development during college.
 - 📸 I enjoy photography, especially capturing aesthetic cityscapes and outdoor scenes, and I love editing them.
 - 📫 Reach me at **lacc1612@gmail.com**
@@ -24,6 +24,11 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <!-- Wix -->
-  <a href="https://www.wix.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wix-com.svg" alt="Wix" width="40" height="40"/></a>
-  <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-_
+<a href="https://www.wix.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Wix_logo.svg" alt="Wix" width="40" height="40"/>
+</a>
+
+<!-- Canva -->
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.svg" alt="Canva" width="40" height="40"/>
+</a>
