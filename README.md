@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm LATRELL ANDREI CAMURUNGAN</h1>
-<h3 align="center">Graphic Designer · Front-end Developer · Multimedia Designer & Social Media Assistant 🇵🇭</h3>
+<h1 align="center">Latrell Andrei</h1>
 
-- 🎨 I create **graphic design and visual content** using Canva, including social media posts, event visuals, and promotional materials.
-- 🌐 I manage and update **Wix websites**, making sure content and design stay clean, consistent, and user-friendly.
-- 💻 I'm building my skills in **front-end development (HTML, CSS, JavaScript)** and enjoy turning ideas into actual working websites.
-- 🎬 I explore **video editing and multimedia design**, continuously improving my creative workflow.
-- 📸 I love **photography**, especially capturing aesthetic moments around the city and enhancing them through editing.
-- 🧠 I’m detail-oriented and enjoy **problem-solving**, whether in design, websites, or tech-related tasks.
-- 🚀 Currently growing as a **designer-developer hybrid**, balancing creativity and code.
+<p align="center">
+Graphic Designer & Front-end Developer based in Manila
+</p>
 
-- 📫 Reach me at **lacc1612@gmail.com**
+<p align="center">
+Creating visuals, building websites, and continuously learning.
+</p>
+
+<p align="center">
+📫 lacc1612@gmail.com
+</p>
 
 <h3 align="left">Languages, Tools & Platforms:</h3>
 <p align="left">
