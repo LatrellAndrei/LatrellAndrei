@@ -38,9 +38,11 @@ Creating visuals, building websites, and continuously learning.
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   </a>
-
-  <!-- What makes you YOU -->
-  <a href="https://www.wix.com/" target="_blank">Wix</a>
-  <a href="https://www.canva.com/" target="_blank">Canva</a>
+  
+<!-- What makes you YOU -->
+<p align="left">
+  <a href="https://www.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>
+  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">Canva</a>
 </p>
+ 
 
