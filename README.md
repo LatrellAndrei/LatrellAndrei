@@ -1,48 +1,117 @@
-<h1 align="center">Latrell Andrei</h1>
+# 👋 Hi, I'm Drei!
 
-<p align="center">
-Graphic Designer & Front-end Developer based in Manila
-</p>
+### IT Graduate • Web Technology • Creative & IT Support
 
-<p align="center">
-Creating visuals, building websites, and continuously learning.
-</p>
+I'm **Latrell Andrei "Drei" Camurungan**, an IT graduate majoring in **Web Technology** from the University of the Cordilleras.
 
-<p align="center">
-📫 lacc1612@gmail.com
-</p>
+I'm interested in the intersection of **technology, creativity, and problem-solving**. My background includes web development, multimedia design, website support, and IT-related projects.
 
-<h3 align="left">Tools & Stack</h3>
-<p align="left">
-  <!-- Core Front-end -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
-  </a>
+Currently, I'm continuing to build my skills in **IT Support, networking, web technologies, and creative design** while working on personal projects and exploring new tools.
 
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  </a>
-</p>
+---
 
-  <!-- Workflow -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  </a>
-  
-<!-- What makes you YOU -->
-<p align="left">
-  <a href="https://www.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>
-  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">Canva</a>
-</p>
- 
+## 🛠️ Skills & Technologies
 
+### 💻 Web & Programming
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Laravel
+* React
+* Vite
+* REST APIs
+* Git & GitHub
+
+### 🖥️ IT & Networking
+
+* IT troubleshooting
+* Hardware & software support
+* Basic networking
+* Cisco Packet Tracer
+* Basic Nmap
+* macOS & Windows
+* Technical documentation
+
+### 🎨 Creative & Multimedia
+
+* Adobe Photoshop
+* Canva
+* Graphic Design
+* Photo Manipulation
+* Video Editing
+* CapCut
+* Social Media Content
+* Website Content Management
+
+---
+
+## 🚀 Projects
+
+### 🎮 Pokémon Card Battle
+
+A React-based Pokémon card battle project using the **PokéAPI**.
+
+**Tech:** React • Vite • JavaScript • REST API
+
+---
+
+### 🌐 Web Development Projects
+
+Projects and experiments focused on building websites and exploring modern web technologies.
+
+**Tech:** HTML • CSS • JavaScript • PHP • Laravel
+
+---
+
+### 🖥️ IT & Networking Labs
+
+Hands-on practice exploring IT support and networking concepts, including network configuration and troubleshooting.
+
+**Tools:** Cisco Packet Tracer • Nmap • macOS • Windows
+
+---
+
+## 📚 Currently Learning
+
+I'm currently improving my skills in:
+
+* 🖥️ IT Support & troubleshooting
+* 🌐 Networking fundamentals
+* ⚛️ React & modern web development
+* 🔧 Git & GitHub workflows
+* 🤖 Automation and productivity tools
+* 🎨 Advanced graphic & multimedia design
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm particularly interested in opportunities involving:
+
+**IT Support • Technical Support • Web Technology • Website Management • Multimedia Design • Creative Technology**
+
+I enjoy work where I can combine **technical problem-solving with creativity**.
+
+---
+
+## 🧰 Tools I Like
+
+`VS Code` `GitHub` `Notion` `Obsidian` `Photoshop` `Canva` `CapCut` `Cisco Packet Tracer`
+
+---
+
+## 📈 My Goal
+
+I'm building my career around becoming someone who can **understand technology, solve practical problems, and create useful things**.
+
+I'm always learning, experimenting, and adding new projects to my portfolio.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories and projects here on GitHub.
+
+**Thanks for stopping by! 👋**
